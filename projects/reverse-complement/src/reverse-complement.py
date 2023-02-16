@@ -5,7 +5,7 @@ NAME
 VERSION
     1.0
     
-AUTHOR yof
+AUTHOR 
 	
     
 DESCRIPTION
@@ -16,11 +16,11 @@ CATEGORY
     
 USAGE
 
-    % python reverse-complement.py -i hsh
+    % python reverse-complement.py -i
     
     example
     
     % python reverse-complement -i
 
 '''
-
+print ("\nHOLA AMORRRRRRRRRR\n\n");
