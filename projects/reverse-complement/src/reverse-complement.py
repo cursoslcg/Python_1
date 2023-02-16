@@ -5,8 +5,8 @@ NAME
 VERSION
     1.0
     
-AUTHOR 
-Bernardo Chombo	
+AUTHOR
+	
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
@@ -16,11 +16,11 @@ CATEGORY
     
 USAGE
 
-    % python reverse-complement.py -i
+    % python reverse-complement.py -i 
     
     example
     
     % python reverse-complement -i
 
 '''
-print ("\nHOLA AMORRRRRRRRRR\n\n");
+
