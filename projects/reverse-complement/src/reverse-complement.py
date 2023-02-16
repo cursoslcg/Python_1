@@ -5,7 +5,9 @@ NAME
 VERSION
     1.0
     
-AUTHOR
+AUTHOR 
+Bernardo Chombo Álvarez
+Liam Morales
 	
     
 DESCRIPTION
