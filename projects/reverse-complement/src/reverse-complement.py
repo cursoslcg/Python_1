@@ -7,7 +7,7 @@ VERSION
     
 AUTHOR 
 Bernardo Chombo Álvarez
-Liam Morales
+Liam Morales <3
 	
     
 DESCRIPTION
