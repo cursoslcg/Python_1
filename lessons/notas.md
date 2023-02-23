@@ -12,6 +12,9 @@ git lof¿g --onleine
 git show HEAD~1 .\reverse-complement.py
 git checkout [id] - restaurar
 git rebase --interactive [id]
+git restore
+git ls-files -d | xargs git checkout
+
 
 Ramas: las ramas nos sirven para definir las diferentes versiones de un archivo
 
