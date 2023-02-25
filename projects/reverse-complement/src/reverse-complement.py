@@ -1,4 +1,4 @@
-'''
+ '''
 NAME
 	reverse-complement.py
     
@@ -7,7 +7,7 @@ VERSION
     
 AUTHOR 
 Bernardo Chombo Álvarez
-Liam Morales <3
+Liam Morales <3 te amo, mi amor
 	
     
 DESCRIPTION
