@@ -59,7 +59,11 @@ Date:   Tue Feb 14 15:56:40 2023 -0600
 
     Nuevo archivo de araC EColi
 
-vt
+commit 2e2d6e757f8ae5d6803dd634fd2defdcdab5f37f (HEAD -> master)
+Author: Bernardo Chombo Alvarez <bchombo@lcg.unam.mx>
+Date:   Wed Mar 1 11:26:20 2023 -0600
+
+    README Tarea1
 ```
 <br>
 
