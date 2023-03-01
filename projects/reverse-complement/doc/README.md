@@ -58,6 +58,8 @@ Author: Bernardo Chombo Alvarez <bchombo@lcg.unam.mx>
 Date:   Tue Feb 14 15:56:40 2023 -0600
 
     Nuevo archivo de araC EColi
+
+vt
 ```
 <br>
 
