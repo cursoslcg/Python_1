@@ -100,7 +100,12 @@ index acd223e..e3519be 100644
 -gaagaaaaagtgaatgatgtagccgtcaagttgtcataa
 +gaagaaaaagtgaatgatgtagccgtcaagttgtcaccg
 
+commit c601008b5a5a1912f1acee4f967433cc6985b28b (HEAD -> master)
+Author: Bernardo Chombo Alvarez <bchombo@lcg.unam.mx>
+Date:   Wed Mar 1 12:13:21 2023 -0600
 
+    README Tarea2
+    
 commit 2e35d3802d378aab42d0f979f45e35ba53cd0862 (HEAD -> master)
 Author: Bernardo Chombo Alvarez <bchombo@lcg.unam.mx>
 Date:   Wed Mar 1 11:50:43 2023 -0600
