@@ -12,6 +12,7 @@ markdown
 <div style="text-align: justify">
 
 ### Bernardo Chombo Álvarez
+  
 ## Introducción
 Para esta tarea se hizo uso de los comandos de git: `git add`, `git log`, `git status`, `git diff`, `git add`, `git cheackout [id]` y `git commit` con la finalidad de añadir el archivo "araB_EColi.fna" y modificar el archivo de "araC_EColi.fna. Asimismo, se restaurará la versión anterior del archivo FASTA de araC y posterior a la comparación de sus versiones.
 <br>
